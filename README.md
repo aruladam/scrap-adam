@@ -73,11 +73,11 @@ check out the [helper_funcs](https://github.com/mrismanaziz/Scrap-Man/tree/maste
 ## LICENSE
 [AGPLv3](https://github.com/mrismanaziz/Scrap-Man/blob/master/LICENSE)
 
-## credits
+## credits❤
 
 - Libraries Used:
   - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
-  - [Risman❤](https://tx.me/mrismanaziz)
+  - [Risman](https://tx.me/mrismanaziz) Dev
