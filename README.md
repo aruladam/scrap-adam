@@ -80,4 +80,4 @@ check out the [helper_funcs](https://github.com/mrismanaziz/Scrap-Man/tree/maste
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
-  - [me](https://tx.me/mrismanaziz)
+  - [Risman❤](https://tx.me/mrismanaziz)
