@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """<b>𝙎𝘾𝙍𝘼𝙋 𝙈𝘼𝙉 di buat untuk Membantu anda Untuk Mengambil APP ID dan API Hash dengan Mudah dan AMAN!
+    START_TEXT = """<b>𝙎𝘾𝙍𝘼𝙋 𝗔𝗗𝗔𝗠 di buat untuk Membantu anda Untuk Mengambil APP ID dan API Hash dengan Mudah dan AMAN!
 ━━━━━━━━━━━━━━━━━━━━━━━━
 Silahkan Masukkan Nomor Telepon Telegram Anda Dengan Format Kode Negara.
 Contoh : +628xxxxxxx</b>
