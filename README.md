@@ -81,3 +81,4 @@ check out the [helper_funcs](https://github.com/mrismanaziz/Scrap-Man/tree/maste
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
   - [Risman](https://tx.me/mrismanaziz) Dev
+  - [Dion](https://tx.me/seorangdion) Dev
